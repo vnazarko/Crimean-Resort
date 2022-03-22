@@ -100,6 +100,10 @@ body {
     color: #fff;
     margin-top: 366px;
     text-align: center;
+}\
+
+.intro_img {
+    width: 100%;
 }
 
 .intro_quote-block {
